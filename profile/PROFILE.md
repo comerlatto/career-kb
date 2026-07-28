@@ -74,12 +74,45 @@ Vejo a Inteligência Artificial como uma forma de ampliar a capacidade das pesso
 
 ---
 
-# Tecnologias
+# Meus diferenciais
 
-> TODO
+## Visão sistêmica
+
+Antes de implementar qualquer solução, procuro compreender como os processos, sistemas e dados se conectam. Essa visão me permite identificar causas estruturais dos problemas em vez de apenas tratar seus sintomas.
+
+## Engenharia orientada à reutilização
+
+Tenho como princípio desenvolver soluções que possam ser reutilizadas e evoluídas ao longo do tempo. Sempre que possível, substituo atividades manuais por processos automatizados e padronizados.
+
+## Equilíbrio entre negócio e tecnologia
+
+Gosto de atuar na interseção entre as necessidades do negócio e as possibilidades técnicas. Busco compreender o contexto da empresa para que decisões de arquitetura façam sentido para quem utilizará os dados.
+
+## Aprendizado contínuo
+
+Grande parte do meu conhecimento foi construída de forma autodidata. Tenho facilidade para aprender novas tecnologias quando elas resolvem problemas reais e agregam valor às soluções.
+
+## Foco na experiência do usuário de dados
+
+Acredito que uma solução só está completa quando as pessoas conseguem utilizar os dados com confiança e autonomia. Por isso, penso não apenas em como produzir informação, mas também em como ela será consumida.
 
 ---
 
-# Objetivos atuais
+# Visão de futuro
 
-> TODO
+Quero evoluir minha carreira construindo plataformas e produtos de dados que tornem o uso da informação cada vez mais simples, confiável e acessível.
+
+Tenho interesse em aprofundar meus conhecimentos em Engenharia de Dados, Analytics Engineering e Inteligência Artificial, buscando integrar essas áreas para desenvolver soluções que reduzam a distância entre dados e tomada de decisão.
+
+Acredito que o futuro da área de dados não está apenas em armazenar grandes volumes de informação, mas em permitir que qualquer pessoa consiga explorar esse conhecimento com autonomia, segurança e contexto.
+
+Meu objetivo é participar da construção dessa nova forma de interação entre pessoas e dados, utilizando engenharia sólida, boas práticas de modelagem e Inteligência Artificial como ferramentas para ampliar a capacidade humana de compreender informações e tomar melhores decisões.
+
+---
+
+## Histórico
+
+### v1.0 — Julho/2026
+
+- Estrutura inicial do perfil profissional.
+- Definição da missão, princípios e forma de pensar.
